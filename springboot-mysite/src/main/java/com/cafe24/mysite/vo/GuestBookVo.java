@@ -1,7 +1,5 @@
 package com.cafe24.mysite.vo;
 
-import java.util.Date;
-
 public class GuestBookVo {
 	private Long no;
 	private String name;
