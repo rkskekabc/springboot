@@ -31,11 +31,11 @@
 		</dependency>
 		
 		<!-- Common DBCP -->
-		<!-- dependency>
+		<dependency>
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 			<version>1.4</version>
-		</dependency -->
+		</dependency>
 		
 		<!-- mariadb java client -->
 		<dependency>
